@@ -15,11 +15,36 @@ export default function LuisLeitePortfolio() {
       <header className="text-center">
         <h1 className="text-3xl font-bold text-blue-800">Luis Henrique C. Leite</h1>
         <p className="text-gray-600">QA Engineer | Manual & Automated Testing | API | DevOps</p>
-        <div className="flex justify-center gap-4 mt-2 text-sm text-gray-700">
-          <div className="flex items-center gap-1"><FaPhone className="text-blue-600" /> +55 (19) 99943-4227</div>
-          <div className="flex items-center gap-1"><FaEnvelope className="text-blue-600" /> luishcl@outlook.com</div>
-          <div className="flex items-center gap-1"><FaLinkedin className="text-blue-600" /> linkedin.com/in/luishchagas</div>
-        </div>
+        <div className="flex flex-col items-center gap-2 mt-4 text-sm text-gray-700">
+  <div className="flex items-center gap-2">
+    <FaPhone className="text-blue-600" />
+    +55 (19) 99943-4227
+  </div>
+  <div className="flex items-center gap-2">
+    <FaEnvelope className="text-blue-600" />
+    luishcl@outlook.com
+  </div>
+  <div className="flex items-center gap-2">
+    <FaLinkedin className="text-blue-600" />
+    <a
+      href="https://linkedin.com/in/luishchagas"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:underline"
+    >
+      linkedin.com/in/luishchagas
+    </a>
+  </div>
+
+  {/* Botão de download do CV */}
+  <a
+    href="/luisleite-portfolio/LuisLeite_CV_2025.pdf"
+    download
+    className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
+  >
+    📄 Download CV (PDF)
+  </a>
+</div>
       </header>
 
       <Card>
@@ -30,6 +55,7 @@ export default function LuisLeitePortfolio() {
           </p>
         </CardContent>
       </Card>
+      
 
       <Card>
         <CardContent className="p-5">
