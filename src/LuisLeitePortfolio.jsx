@@ -38,7 +38,7 @@ export default function LuisLeitePortfolio() {
 
   {/* Botão de download do CV */}
   <a
-    href="/luisleite-portfolio/LuisLeite_CV_2025.pdf"
+    href="/luisleite-portfolio/LuisLeite_CV_2025_EN.pdf"
     download
     className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
   >
