@@ -1,5 +1,5 @@
 
-import { Mail, Phone, Linkedin, Github } from "lucide-react";
+import { FaEnvelope, FaPhone, FaLinkedin, FaGithub } from "react-icons/fa";
 
 function Card({ children }) {
   return <div style={{ border: "1px solid #ccc", borderRadius: 8, padding: 16, marginBottom: 20 }}>{children}</div>;
@@ -16,9 +16,9 @@ export default function LuisLeitePortfolio() {
         <h1 className="text-3xl font-bold text-blue-800">Luis Henrique C. Leite</h1>
         <p className="text-gray-600">QA Engineer | Manual & Automated Testing | API | DevOps</p>
         <div className="flex justify-center gap-4 mt-2 text-sm text-gray-700">
-          <div className="flex items-center gap-1"><Phone className="h-4 w-4" /> +55 (19) 99943-4227</div>
-          <div className="flex items-center gap-1"><Mail className="h-4 w-4" /> luishcl@outlook.com</div>
-          <div className="flex items-center gap-1"><Linkedin className="h-4 w-4" /> linkedin.com/in/luishchagas</div>
+          <div className="flex items-center gap-1"><FaPhone className="text-blue-600" /> +55 (19) 99943-4227</div>
+          <div className="flex items-center gap-1"><FaEnvelope className="text-blue-600" /> luishcl@outlook.com</div>
+          <div className="flex items-center gap-1"><FaLinkedin className="text-blue-600" /> linkedin.com/in/luishchagas</div>
         </div>
       </header>
 
