@@ -13,5 +13,8 @@ dist
 *.log
 *.lock
 
+# sistema operacional
+Thumbs.db
+
 # vscode
 .vscode/
