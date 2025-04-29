@@ -91,7 +91,7 @@ export default function LuisLeitePortfolio() {
           <h2 className="text-xl font-semibold text-blue-700 mb-2">Contact & GitHub</h2>
           <p>If you’d like access to private QA repositories with BDD, API and CI/CD examples, just get in touch!</p>
           <div className="flex items-center gap-2 mt-2 text-sm text-blue-600">
-            <Github className="h-4 w-4" /> github.com/your-profile (or private repo)
+            <FaGithub className="text-blue-600" /> github.com/your-profile (or private repo)
           </div>
         </CardContent>
       </Card>
