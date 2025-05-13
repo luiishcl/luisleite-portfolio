@@ -1,0 +1,50 @@
+{
+    "subtitle": "Engenheiro de Qualidade de Software | Testes Manuais e Automatizados | API | DevOps",
+    "downloadCV": "📄 Baixar CV (PDF)",
+    "aboutMe": "Sobre Mim",
+    "aboutMeDescription": "Analista de Qualidade com mais de 10 anos de experiência garantindo a qualidade de software por meio de testes manuais e automatizados. Habilidade com Selenium, Postman, RestAssured, ferramentas DevOps e ambientes Ágeis. Apaixonado por entregar aplicações estáveis e de alta performance.",
+    "coreSkills": "Habilidades Principais",
+    "skills": {
+      "selenium": "Selenium, Cucumber, RestAssured",
+      "postman": "Postman, Newman, Swagger",
+      "languages": "Java, C#, Ruby, ShellScript",
+      "databases": "SQL Server, MongoDB, MySQL",
+      "devops": "Git, Azure DevOps, Jenkins",
+      "cloud": "AWS, Oracle Cloud, Docker, Kubernetes"
+    },
+    "highlightedProjects": "Projetos em Destaque",
+    "projects": {
+      "benfatto": {
+        "title": "Automação de Testes E2E para Plataforma COMEX – BenFatto",
+        "item1": "Automatização de fluxos críticos com Selenium + C#",
+        "item2": "Testes orientados a dados com SQL Server",
+        "item3": "Participação em sprints ágeis e pipelines no Azure DevOps"
+      },
+      "dextra": {
+        "title": "Testes de API em Microsserviços – Dextra Digital",
+        "item1": "Validação e testes de integração de APIs com base em Kafka",
+        "item2": "Estratégias de automação para ambientes com microsserviços"
+      },
+      "ciandt": {
+        "title": "Entrega Enxuta com BDD – CI&T",
+        "item1": "Automação de testes ponta a ponta e por componentes em Java",
+        "item2": "Cenários em Gherkin com equipes de negócio",
+        "item3": "Validações de backend com Postman e logs do Kubernetes"
+      }
+    },
+    "education": "Formação e Certificações",
+    "education.postgraduate": "Pós-graduação em Engenharia de Software – Anhanguera (2024)",
+    "education.specialization": "Especialização em TIC – Anhanguera (2024)",
+    "education.bachelor": "Bacharelado em Ciência da Computação – Anhanguera (2020)",
+    "education.certifications": "Certificações: Automação de Testes (Ninja), Proficiência em SQL, APIs com Postman, Fundamentos de Java",
+    "contact": "Entre em Contato",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "sendMessage": "Enviar Mensagem",
+    "success": "Obrigado! Sua mensagem foi enviada.",
+    "error": "Algo deu errado. Por favor, tente novamente.",
+    "githubSection": "Contato e GitHub",
+    "githubMessage": "Se quiser acesso a repositórios privados de QA com exemplos de BDD, API e CI/CD, é só entrar em contato!"
+  }
+  

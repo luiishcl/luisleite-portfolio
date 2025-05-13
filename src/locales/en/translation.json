@@ -1,0 +1,50 @@
+{
+    "subtitle": "QA Engineer | Manual & Automated Testing | API | DevOps",
+    "downloadCV": "📄 Download CV (PDF)",
+    "aboutMe": "About Me",
+    "aboutMeDescription": "QA Engineer with over 10 years of experience in ensuring software quality through manual and automated testing. Skilled in Selenium, Postman, RestAssured, DevOps tools, and Agile environments. Passionate about delivering stable, high-performing applications.",
+    "coreSkills": "Core Skills",
+    "skills": {
+      "selenium": "Selenium, Cucumber, RestAssured",
+      "postman": "Postman, Newman, Swagger",
+      "languages": "Java, C#, Ruby, ShellScript",
+      "databases": "SQL Server, MongoDB, MySQL",
+      "devops": "Git, Azure DevOps, Jenkins",
+      "cloud": "AWS, Oracle Cloud, Docker, Kubernetes"
+    },
+    "highlightedProjects": "Highlighted Projects",
+    "projects": {
+      "benfatto": {
+        "title": "E2E Test Automation for COMEX Platform – BenFatto",
+        "item1": "Automated critical user flows using Selenium + C#",
+        "item2": "Data-driven testing with SQL Server",
+        "item3": "Agile sprint participation & Azure DevOps pipelines"
+      },
+      "dextra": {
+        "title": "Microservices API Testing – Dextra Digital",
+        "item1": "Kafka-based API validation & integration tests",
+        "item2": "Automation strategies for microservice environments"
+      },
+      "ciandt": {
+        "title": "BDD Lean Delivery – CI&T",
+        "item1": "End-to-end and component-level test automation in Java",
+        "item2": "Gherkin-based scenarios with business teams",
+        "item3": "Backend validations using Postman and Kubernetes logs"
+      }
+    },
+    "education": "Education & Certifications",
+    "education.postgraduate": "Postgraduate in Software Engineering – Anhanguera (2024)",
+    "education.specialization": "Specialization in ICT – Anhanguera (2024)",
+    "education.bachelor": "Bachelor's in Computer Science – Anhanguera (2020)",
+    "education.certifications": "Certifications: Test Automation (Ninja), SQL Proficiency, Postman APIs, Java Fundamentals",
+    "contact": "📬 Contact Me",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "sendMessage": "Send Message",
+    "success": "Thank you! Your message was sent.",
+    "error": "Something went wrong. Please try again.",
+    "githubSection": "Contact & GitHub",
+    "githubMessage": "If you’d like access to private QA repositories with BDD, API and CI/CD examples, just get in touch!"
+  }
+  
