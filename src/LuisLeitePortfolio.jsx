@@ -63,13 +63,13 @@ export default function LuisLeitePortfolio() {
         {/* Seção de seleção de idioma com ícones de bandeiras */}
         <div className="flex justify-center gap-4 mt-4">
           <img
-            src="/flags/br.png"
+            src={`${import.meta.env.BASE_URL}flags/br.png`}
             alt="Português"
             onClick={() => handleLanguageChange('pt')}
             style={{ cursor: 'pointer', width: 30, height: 20 }}
           />
           <img
-            src="/flags/gb.png"
+            src={`${import.meta.env.BASE_URL}flags/gb.png`}
             alt="English"
             onClick={() => handleLanguageChange('en')}
             style={{ cursor: 'pointer', width: 30, height: 20 }}
